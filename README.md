@@ -11,4 +11,4 @@ The pockets are broken down into two broad categories:
 
 From there you can browse based on the head, and then the pockets available for the head.
 
-If you want to contribute a pocket to the collection, check out the [CONTRIBUTE.md](contribute.md) file for more instructions.
+If you want to contribute a pocket to the collection, check out the [CONTRIBUTE.md](CONTRIBUTE.md) file for more instructions.
