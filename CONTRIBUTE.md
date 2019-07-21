@@ -8,7 +8,7 @@ To contribute, follow these steps:
 
 1. Fork this repository
 
-2. Create a MarkDown (.md) file with the name of the pocket, or some sort of descriptor and the brand and head as the file name. ex: `my-super-awesome-pocket_stx_x10.md`. Please follow the formatting in the template.md file.
+2. Create a MarkDown (.md) file with the name of the pocket, or some sort of descriptor and the brand and head as the file name. ex: `my-super-awesome-pocket_stx_x10.md`. Please follow the formatting in the [template.md](template.md) file.
 
   * You can also include images. Please make sure they are scaled down to a nice size (600px on the long end, compressed jpg format).
 
