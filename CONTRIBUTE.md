@@ -8,11 +8,12 @@ To contribute, follow these steps:
 
 1. Fork this repository
 
-2. Create a MarkDown (.md) file with the name of the pocket, or some sort of descriptor and the brand and head as the file name. ex: `my-super-awesome-pocket_stx_x10.md`. Please follow the formatting in the [template.md](template.md) file.
+2. Create a MarkDown (.md) file with the name of the pocket, or some sort of descriptor and the brand and head as the file name. ex: `my-super-awesome-pocket_stx_x10.md`. Please follow the formatting in the [template.md](https://raw.githubusercontent.com/desnudopenguino/stickdoctor/master/template.md) file.
+  * You can create a new file by clicking the "Create new file" link on the homepage for your repository. Then copy and paste the text from the template.md link above. Make sure you name your file before clicking "Commit changes" at the bottom of the page.
 
   * You can also include images. Please make sure they are scaled down to a nice size (600px on the long end, compressed jpg format).
 
-3. Add a link to your pocket in the proper location.
+3. Add a link to your pocket in the proper location by editing the the page for your head or creating one and adding the link there.
 
   * If there is a page for the head you used, add it there.
 
